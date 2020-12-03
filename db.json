@@ -1,0 +1,130 @@
+{
+  "posts": [
+    {
+      "title": "Tunis",
+      "author": "Paula",
+      "region": "Africa",
+      "country": "Tunisia",
+      "category": "Sightseeing",
+      "info": "Tunis is the capital and largest city of Tunisia. The greater metropolitan area of Tunis, often referred to as Grand Tunis, has about 2,700,000 inhabitants. As of 2020, it is the fourth-largest city in the Maghreb region (after Casablanca and Algiers and Tripoli) and the sixteenth-largest in the Arab world.\n\nSituated on a large Mediterranean Sea gulf (the Gulf of Tunis), behind the Lake of Tunis and the port of La Goulette (Ḥalq il-Wād), the city extends along the coastal plain and the hills that surround it. At its core lies its ancient medina, a World Heritage Site. East of the medina through the Sea Gate (also known as the Bab el Bhar and the Porte de France) begins the modern city, or Ville Nouvelle, traversed by the grand Avenue Habib Bourguiba (often referred to by media and travel guides as the Tunisian Champs-Élysées), where the colonial-era buildings provide a clear contrast to smaller, older structures. Further east by the sea lie the suburbs of Carthage, La Marsa, and Sidi Bou Said. As the capital of the country, Tunis is the focus of Tunisian political and administrative life and also the centre of the country's commercial and cultural activities. from: https://en.wikipedia.org/wiki/Tunis",
+      "id": 1
+    },
+    {
+      "title": "Zongzi",
+      "author": "Zhu Hue",
+      "region": "Asia",
+      "country": "China",
+      "category": "Food",
+      "info": "Sticky rice bundles (粽子 Zongzi /dzong-dzrr/) are made from sticky or glutinous rice and a filling, which is kneaded in. They are then wrapped in bamboo leaves in pillow or triangular-based pyramid shapes, and tied with plant stems.\n\nIf you are careful the bamboo leaves can be folded back like a wrapper so that you don't get your fingers (too) sticky while eating them.They are often found sold at train and bus stations and make more of a meal than a snack (see Chinese Snacks). Glutinous rice is very filling. from: https://www.chinahighlights.com/festivals/zongzi.htm",
+      "id": 2
+    },
+    {
+      "title": "Super Polish pierogi - legend",
+      "author": "Agnieszka",
+      "region": "Europe",
+      "country": "Poland",
+      "category": "Food",
+      "info": "While the origin of the pierogi is often under debate, the exact origin of the dish is unknown and unverifiable. It likely originated somewhere in Central Europe or Eastern Europe, and has been consumed in these regions long before any of the present political nations existed. Today, it is a large part of many Central European and Eastern European cultures.\n\nOne legend relates that in 1238, Hyacinth of Poland visited Kościelec, and on his visit, a storm destroyed all crops; Hyacinth told everyone to pray and by the next day, crops rose back up. As a sign of gratitude, people made pierogi from those crops for Saint Hyacinth.[15] Another legend states that Saint Hyacinth fed the people with pierogi during a famine caused by an invasion by the Tatars in 1241.[15] One source theorizes that in the 13th century, pierogi were brought to Polish territories by Hyacinth of Poland from the Far East (Asia) via eastern neighbors such as Kievan Rus'.[16] None of these legends is supported by the etymological origin of the root pirŭ- from: https://en.wikipedia.org/wiki/Pierogi",
+      "id": 3
+    },
+    {
+      "title": "Moravia’s largest technical museum, located in NW Brno",
+      "author": "Iveta",
+      "region": "Europe",
+      "country": "Czehc Republic",
+      "category": "Sightseeing",
+      "info": "Moravia’s largest technical museum, located in NW Brno\n\nThe direct predecessor of the Technical Museum in Brno was Archiv pro dějiny průmyslu, obchodu a technické práce (the Archive for History of Industry, Commerce, and Technical Works), established in 1936.\n\nCurrently, the museum is an independent public-benefit corporation and is funded and managed directly by the Ministry of Culture of the Czech Republic.\n\nAmong other things, its permanent exhibitions deal with the metallurgical industry, clockwork machines, cutlery, mechanical music, and large steamships and water machines. These permanent exhibitions are complemented by short-term ones as well.\n\nIts Technical Playroom introduces various laws of physics and their technical applications in a fun way, to the enjoyment of visitors of all ages. The museum runs a craft-technical workshop which supports technical education of children through various activities and offers programs focusing on traditional craft techniques. The museum also organizes quite a number of events for both adults and children. from: https://www.gotobrno.cz/en/place/brno-technical-museum-technicke-muzeum-v-brne/",
+      "id": 4
+    },
+    {
+      "title": "Shopping in Tokyo",
+      "author": "Izuke",
+      "region": "Asia",
+      "country": "Japan",
+      "category": "City life",
+      "info": "From cutting edge electronics to colorful anime goods, traditional crafts, trendy fashion and branded goods, Tokyo has a shop for practically anything one could ever want to buy - although not necessarily in your desired price range.\n\nTokyo's varied sightseeing districts double as shopping districts, many of them with their own character and specialties. The following is a general rundown of what to expect on the shopping scene of each district so you can familiarize and prepare yourself for a shopping spree in the big city. from: https://www.japan-guide.com/e/e3053.html",
+      "id": 5
+    },
+    {
+      "title": "Oktoberfest in Munich",
+      "author": "Markus",
+      "region": "Europe",
+      "country": "Germany",
+      "category": "Festivals",
+      "info": "Germany’s most iconic Volkfest, Oktoberfest attracts millions of people to the city to enjoy Bavarian beer and food, live bands, and parades. This 3-week-long festivity kicks off with a vibrant parade of carriages, floats, and people in traditional costumes, before congregating at the Theresienwiese fairground. You can find hundreds of large tents with gallons of beers provided by renowned Munich breweries, with traditional Bavarian music blaring out of massive speakers throughout the day. Fairground rides such as Ferris wheels, miniature trains, and merry-go-rounds offer hours of fun for visitors too young to drink. from: https://au.hotels.com/go/germany/best-festivals-germany",
+      "id": 6
+    },
+    {
+      "title": "Chorba Fik",
+      "author": "Ahmed",
+      "region": "Africa",
+      "country": "Algeria",
+      "category": "Food",
+      "info": "The traditional soup known as chorba frik is one of the staples of Algerian diet. It is a tomato-based soup made with meat, chickpeas, and an ancient grain called frik. The dish is seasoned with traditional Algerian spices such as mint or coriander, which give the dish a typical oriental flavor.The main ingredient, frik, is a grain that is frequently used in many Algerian dishes. This ancient cereal, familiar to the Mediterranean and Arabic countries, has an unusual green color, and resembles the more popular bulgur. Chorba frik is a dish that is usually associated with the eastern parts of the country, but it can be found throughout Algeria. Since it is highly nutritious, it is often served on its own. Various breads or a traditional Algerian flatbread, kesra, are usually served on the side. The dish is typically served on Ramadan, after breaking the fast. On Ramadan, a bowl of chorba frik is usually served with borek – a crispy pastry filled with minced meat. from: https://www.tasteatlas.com/most-popular-dishes-in-algeria",
+      "id": 7
+    },
+    {
+      "title": "Salvador Dali museum and art collection",
+      "author": "Maria",
+      "region": "Europe",
+      "country": "Spain",
+      "category": "Arts and culture",
+      "info": "The Dalí Theatre and Museum holds the largest collection of major works by Dalí in a single location. Some of the most important exhibited works are Port Alguer (1924), The Spectre of Sex-appeal (1932), Soft self-portrait with grilled bacon (1941), Poetry of America—the Cosmic Athletes (1943), Galarina (1944–45), Basket of Bread (1945), Leda Atomica (1949), Galatea of the Spheres (1952) and Crist de la Tramuntana (1968).[3]:154\n\nThere is also a set of works created by the artist expressly for the Museum, including the Mae West room, the Palace of the Wind room, the Monument to Francesc Pujols, and the Cadillac plujós.A collection of holographic art by Dalí, and a collection of jewellery he designed are on display. Another room contains a bathtub and a side table with an open drawer and a lamp, all of which Dalí had installed upside-down on the ceiling. An extension to the museum building contains a room dedicated to optical illusions, stereographs, and anamorphic art created by Dalí. The artist's final works, including his last oil painting, The Swallow's Tail (1983),[2]:42 are on display here. from: https://en.wikipedia.org/wiki/Dal%C3%AD_Theatre_and_Museum",
+      "id": 8
+    },
+    {
+      "title": "Sydney Santa Spectacular ",
+      "author": "Olivia",
+      "region": "Australia",
+      "country": "Australia",
+      "category": "Arts and culture",
+      "info": "Go to the beach\nSydney’s fabulous beaches are always open. Everyone is welcome to have fun in sun on Christmas Day. After all, going to the beach on Christmas Day is an Aussie tradition. Many visitors and locals head for Bondi (ranked 15 in the top 100) and Coogee (ranked 22) Beaches to celebrate. If you are a little worried about sharks – follow this link .\n\nChristmas Lights\nThe Christmas lights are great to see even if you aren’t into Christmas. It can be a bit like an entree to Vivid except it’s warm! Head towards Town Hall, Martin Place, St Mary’s Cathedral and King Street to see some amazing light projections.\n\nUnofficial Christmas Lights\nA drive through many of Sydney’s suburbs will be rewarded by unofficial Christmas lights on roofs and front gardens. Follow a link below for your nearest display. from: https://www.sydney100.com/christmassydney/",
+      "id": 9
+    },
+    {
+      "title": "Paparoa National Park",
+      "author": "Adam",
+      "region": "Australia",
+      "country": "New Zeland",
+      "category": "Nature",
+      "info": "This fascinating national park, towards the northern end of the South Island's west coast, runs all the way inland from the ocean to the rugged ice-carved Paparoa Mountain Range.\n\nIn the interests of science, the boundaries of the park were carefully established to encompass a complete range of landscapes and ecosystems - from the granite and gneiss summits of the Paparoa Range down to the layered rock formations of Punakaiki.\n\nBy following the historic Inland Pack Track(opens in new window), formed originally by gold miners, visitors can discover some of the park's most special places. Camping under a natural rock shelter - the Ballroom Overhang - is an unforgettable experience. from: https://www.newzealand.com/int/feature/national-parks-paparoa/",
+      "id": 10
+    },
+    {
+      "title": "Pisac Ruins",
+      "author": "Fernando",
+      "region": "Americas",
+      "country": "Peru",
+      "category": "Sightseeing",
+      "info": "Pisac is a village situated in the Sacred Valley. The name Pisac (sometimes referred to as Pisaq) means partridge (a type of bird) in the local Quechua language. It was customary in Inca architecture to design cities in the shape of an animal, and in the case of Pisac, it’s built in the shape of a partridge!\n\nThe other main attraction for visiting Pisac is to hike to the Pisac Ruins, which sit high above the village on a triangular plateau – you can find the start of this trail near the church in town. It’s a steep 610 meter climb (2000 feet) but the views of the Urubamba Valley, the close up detail of the terraces, the ancient footpaths and tunnels make the climb well worthwhile. You can hike to the Pisac Ruins on our Jaguar', 'Alpaca', 'Iguana'  and 'Capybara'. from: https://blog.activeadventures.com/discover-the-most-famous-and-lesser-known-inca-ruins-in-peru",
+      "id": 11
+    },
+    {
+      "title": "El Impenetrable National Park",
+      "author": "Dolores",
+      "region": "Americas",
+      "country": "Argentina",
+      "category": "Nature",
+      "info": "El Impenetrable National Park, Spanish: Parque Nacional El Impenetrable, is a national park in the Gran Chaco region of northern Argentina. It was established in 2014 on the lands of the former Estancia La Fidelidad, which were expropriated after the owner, Manuel Roseo, was murdered in 2011 in an attempt to gain control of the estate. The park opened to visitors in 2017.[1][2] It is the largest natural park in northern Argentina, with a total area of approximately 128,000 hectares. from: https://en.wikipedia.org/wiki/El_Impenetrable_National_Park",
+      "id": 12
+    },
+    {
+      "title": "Festival del Habano",
+      "author": "Juan",
+      "region": "Americas",
+      "country": "Cuba",
+      "category": "Festivals",
+      "info": "The is Cuba's most important festival for cigars. It attracts cigar lovers from all over the planet. The tendency over the last few years for the festival has been to grow year on year, and that trend is only predicted to continue. Cuba's famous brands, including Cohiba, Montecristo, Partagas, Romeo y Julieta, H Upman, and even smaller privately run Robaina, are all involved. Visits to cigar factories and tobacco plantations are on offer, and seminars, cigar rolling demonstrations, and tastings are included. from: https://www.cubagrouptour.com/information/events-in-cuba",
+      "id": 13
+    },
+    {
+      "title": "Mall of the Emirates - A mall with an indoor ski resort",
+      "author": "Sherine",
+      "region": "Asia",
+      "country": "United Arab Emirates",
+      "category": "City life",
+      "info": "Mall of the Emirates is one of the leading malls in Dubai, hosting more than 560 shops with a mixture of high-street brands, boutiques, handicraft shops and luxury stores. Excited shoppers can go on a spending spree throughout the day to find the best the region has to offer.\r\nBusy after all the shopping, you can replenish your energy by relaxing in the many cafés and food courts found scattered across the sprawling complex. You can also take time out to exercise on the mall’s very own indoor ski slope or unwind watching the latest blockbuster at the VOX Cinemas.",
+      "id": 14
+    }
+  ]
+}

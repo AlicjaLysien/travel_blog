@@ -1,0 +1,71 @@
+body {
+    min-height: 100vh;
+    background: #ffffe9;
+}
+
+h1 {
+    color: #00aeff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 26px;
+}
+
+.img-wrap {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    overflow: hidden;
+    object-fit: contain;
+    animation: rotating 10s linear infinite;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+@keyframes rotating {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+#menu > div {
+    display: inline-block;
+    float: left;
+    padding: 16px;
+}
+
+#menu > div:last-of-type {
+    display: inline-block;
+    float: none;
+}
+
+.hidden {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+
+#posts > div:first-of-type > div > div {
+    background: #082241;
+    color: azure;
+}
+
+first-of-type {
+  color: azure;
+  font-size: 50px;
+}
+
+
+.red
+{
+  background: darkred;
+}
