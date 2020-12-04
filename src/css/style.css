@@ -55,7 +55,7 @@ h2 {
 }
 
 
-#posts > div:first-of-type > div > div {
+.dark {
     background: #082241;
     color: azure;
 }

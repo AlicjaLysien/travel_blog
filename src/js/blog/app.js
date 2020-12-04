@@ -96,7 +96,7 @@ export default class App {
             let data = await response.json()
             data = data.map(post => new Post(post.id, post.title, post.author, post.region, post.country, post.category, post.info))
             let info = ""
-            data.forEach(post => info += template(post))
+            data.forEach(post => info += template2(post))
             this.postsDIV.innerHTML = info
         })
     }

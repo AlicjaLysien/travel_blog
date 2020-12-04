@@ -4,7 +4,7 @@ export default (post) => {
 
         <div class="col-md-12">
             <div class="card">
-                <div class="card-body">
+                <div class="card-body dark">
                     <h4 class="card-title">${post.title} (${post.country})</h4>
                     <h5 class="card-subtitle mb-2 text-muted">Author: ${post.author}</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Category: ${post.category}</h6>
