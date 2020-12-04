@@ -1,6 +1,8 @@
 export default (post) => {
-    let template = `
-        <div class="col-md-4">
+    let template1 = `
+
+
+        <div class="col-md-12">
             <div class="card">
                 <div class="card-body">
                     <h4 class="card-title">${post.title} (${post.country})</h4>
@@ -12,5 +14,11 @@ export default (post) => {
             </div>
         </div>
     `
-    return template
+    return template1
+
 }
+
+
+
+
+

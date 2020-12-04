@@ -1,10 +1,13 @@
 import Post from '../post'
-import template from '../template'
+import template1 from '../template1'
+import template2 from '../template2'
+import template3 from '../template3'
 
 export default class App {
-    constructor(postsDIV, formDOMElement, formElementSearch) {
+    constructor(postsDIV, articleNameDIV, formDOMElement, formElementSearch) {
         this.formElementSearch = formElementSearch
         this.postsDIV = postsDIV
+        this.articleNameDIV = articleNameDIV
         this.formDOMElement = formDOMElement
         this.baseURL = "http://localhost:3000"
     }
@@ -40,12 +43,16 @@ export default class App {
         let response = await fetch(`${this.baseURL}/posts`)
         let data = await response.json()
 
-        data = data.map(post => new Post(post.id, post.title, post.author, post.region, post.country, post.category, post.info)).reverse()
+        data = data.map(post => new Post(post.id, post.title, post.author, post.region = "", post.country, post.category, post.info)).reverse()
 
         let info = ""
-        data.forEach(post => info += template(post))
+        let i = 0;
+        data.forEach(post =>{ if(i == 0){info += template1(post)}else{info += template2(post)} i++} )
         this.postsDIV.innerHTML = info
-
+        let articleName = ""
+        i = 0;
+        data.forEach(post =>{ if(i == 0){articleName += template3(post)} i++} )
+        this.articleNameDIV.innerHTML = articleName
     }
 
     async showPostsRegion(region) {
@@ -55,11 +62,16 @@ export default class App {
         let response = await fetch(`${this.baseURL}/posts?region=` + region)
         let data = await response.json()
 
-        data = data.map(post => new Post(post.id, post.title, post.author, post.region, post.country, post.category, post.info)).reverse()
+        data = data.map(post => new Post(post.id, post.title, post.author, post.region = " - " +post.region , post.country, post.category, post.info)).reverse()
 
         let info = ""
-        data.forEach(post => info += template(post), function() {if(true){document.getElementById("posts").className ='red'}})
+        let i = 0;
+        data.forEach(post =>{ if(i == 0){info += template1(post)}else{info += template2(post)} i++} )
         this.postsDIV.innerHTML = info
+        let articleName = ""
+        i = 0;
+        data.forEach(post =>{ if(i == 0){articleName += template3(post)} i++} )
+        this.articleNameDIV.innerHTML = articleName
 
     }
 
